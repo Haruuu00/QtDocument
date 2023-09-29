@@ -1,0 +1,11 @@
+=======
+import
+=======
+
+
+よく使うやつ
+=============
+
+* QtQuickControlls
+* QtMultimedia
+- 今日の天気は晴れ
