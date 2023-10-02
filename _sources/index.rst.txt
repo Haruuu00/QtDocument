@@ -15,8 +15,8 @@ Qtドキュメント
     
     signal
     import
-    C++とQMLの連携について
-    Qtのバージョンによる違い
+    cpp_qml
+    versiondiff
 
 
 
