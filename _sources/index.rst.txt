@@ -2,10 +2,12 @@ Qtドキュメント
 ====================
 
 
-
 内容
 ------
+.. redirect-from::
 
+  Docs-Guide
+  
 .. toctree::
     :maxdepth: 1
     :numbered:
@@ -13,6 +15,8 @@ Qtドキュメント
     
     signal
     import
+    C++とQMLの連携について
+    Qtのバージョンによる違い
 
 
 
